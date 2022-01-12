@@ -15,3 +15,5 @@ function binarySearch(array, target) {
   // if no integer it's equal to the target, return -1
   return -1;
 }
+
+binarySearch(array, target);
